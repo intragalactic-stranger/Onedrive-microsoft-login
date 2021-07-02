@@ -1,0 +1,62 @@
+.container {
+  justify-content: center;
+  align-items: center;
+  padding: 5%;
+  margin: 5%;
+}
+body {
+  font-family: 'Segoe UI Webfont', -apple-system, 'Helvetica Neue',
+    'Lucida Grande', 'Roboto', 'Ebrima', 'Nirmala UI', 'Gadugi',
+    'Segoe Xbox Symbol', 'Segoe UI Symbol', 'Meiryo UI', 'Khmer UI', 'Tunga',
+    'Lao UI', 'Raavi', 'Iskoola Pota', 'Latha', 'Leelawadee',
+    'Microsoft YaHei UI', 'Microsoft JhengHei UI', 'Malgun Gothic',
+    'Estrangelo Edessa', 'Microsoft Himalaya', 'Microsoft New Tai Lue',
+    'Microsoft PhagsPa', 'Microsoft Tai Le', 'Microsoft Yi Baiti',
+    'Mongolian Baiti', 'MV Boli', 'Myanmar Text', 'Cambria Math';
+  font-size: 0.9375rem;
+  line-height: 1.25rem;
+  color: #262626;
+  background-color: #fff;
+}
+h6 {
+  font-size: 1.5rem;
+  line-height: 1.75rem;
+  font-weight: 600;
+  font-family: 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', 'Roboto', 'Ebrima',
+    'Nirmala UI', 'Gadugi', 'Segoe Xbox Symbol', 'Segoe UI Symbol', 'Meiryo UI',
+    'Khmer UI', 'Tunga', 'Lao UI', 'Raavi', 'Iskoola Pota', 'Latha',
+    'Leelawadee', 'Microsoft YaHei UI', 'Microsoft JhengHei UI', 'Malgun Gothic',
+    'Estrangelo Edessa', 'Microsoft Himalaya', 'Microsoft New Tai Lue',
+    'Microsoft PhagsPa', 'Microsoft Tai Le', 'Microsoft Yi Baiti',
+    'Mongolian Baiti', 'MV Boli', 'Myanmar Text', 'Cambria Math';
+}
+
+input[type='color'],
+input[type='date'],
+input[type='datetime'],
+input[type='datetime-local'],
+input[type='email'],
+input[type='month'],
+input[type='number'],
+input[type='password'],
+input[type='search'],
+input[type='tel'],
+input[type='text'],
+input[type='time'],
+input[type='url'],
+input[type='week'],
+textarea {
+  border-style: solid;
+  border-color: #000;
+  border-color: rgba(0, 0, 0, 0.6);
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 1px;
+  border-radius: 0px;
+  padding: 6px 0px;
+  background-color: #fff;
+  background-color: rgba(255, 255, 255, 0.4);
+  outline: none;
+  height: 36px;
+}
